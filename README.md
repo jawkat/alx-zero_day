@@ -1,1 +1,1 @@
-My first readme is so amazing
+This file is mandatory in projects
